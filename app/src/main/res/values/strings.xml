@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YakeenTask</string>
+    <string-array name="Sections">
+        <item>home</item>
+        <item>opinion</item>
+        <item>world</item>
+        <item>national</item>
+        <item>politics</item>
+        <item>science</item>
+        <item>business</item>
+        <item>sports</item>
+        <item>technology</item>
+        <item>health</item>
+        <item>arts</item>
+
+    </string-array>
+</resources>
